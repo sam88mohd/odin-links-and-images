@@ -4,10 +4,10 @@
 
 <ul>
   <li> learn header
-  <li> learn p tag 
-  <li> learn a tag
+  <li> learn paragraph tag 
+  <li> learn anchor tag
   <li> learn <strong>Strong</strong> tag
   <li> learn <em>emphasis</em> tag
-  <li> learn add image in webpage
+  <li> learn to add image in webpage
 </ul>
 
